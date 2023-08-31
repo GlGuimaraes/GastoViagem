@@ -15,7 +15,7 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:hint="@string/distance"
-        android:inputType="number" />
+        android:inputType="numberDecimal" />
 
     <TextView
         android:textSize="17sp"
